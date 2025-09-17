@@ -22,3 +22,17 @@ What’s included in this repo
 Next steps (ideas)
 - Convert the directory to a dynamic React/Next.js app with real-time search and map integration
 - Add user reviews & business claims
+
+
+# Istanbul in a Click (Wix)
+
+الموقع حي: https://istanbulinaclick.wixsite.com/mysite
+
+ملخص  
+موقع دليل عملي لإسطنبول موجه للسياح، الطلاب، والمقيمين. تصميمي في Wix اشتمل على تنظيم المحتوى وإنشاء صفحات الفئات وربط بيانات بسيطة.
+
+الدور  
+- تصميم الواجهات على Wix  
+- إعداد مجموعات بيانات (Wix Data) لقوائم الخدمات  
+- تحسين عناوين الصفحات ووصفها للـ SEO
+
